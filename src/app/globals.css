@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #0A0A0A;
+  color: #FFFFFF;
+  min-height: 100vh;
+}
+
+::selection {
+  background: #F5C400;
+  color: #0A0A0A;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #F5C400 #141414;
+}
