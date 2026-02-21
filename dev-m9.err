@@ -1,0 +1,21 @@
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⨯ ./src/components/Topbar.tsx
+Error: 
+  [31mx[0m Expression expected
+    ,-[[36;1;4mC:\Users\minul\PycharmProjects\music-loader-website\src\components\Topbar.tsx[0m:51:1]
+ [2m51[0m |     </header>
+ [2m52[0m |   );
+ [2m53[0m | }
+ [2m54[0m |             ? "opacity-100 pointer-events-auto translate-y-0"
+    : [31;1m            ^[0m
+ [2m55[0m |             : "opacity-0 pointer-events-none -translate-y-1"
+ [2m56[0m |         }`}
+ [2m57[0m |       >
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/components/Topbar.tsx
+./src/components/PageShell.tsx

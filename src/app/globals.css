@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #06070c;
+  --foreground: #e8ebf9;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  min-height: 100vh;
+  font-family: var(--font-geist-sans), sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+.grain-overlay {
+  background-image:
+    radial-gradient(rgba(255, 255, 255, 0.08) 0.6px, transparent 0.6px),
+    radial-gradient(rgba(255, 255, 255, 0.05) 0.6px, transparent 0.6px);
+  background-position: 0 0, 14px 14px;
+  background-size: 28px 28px;
+}

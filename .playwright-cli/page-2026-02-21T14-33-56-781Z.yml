@@ -1,0 +1,67 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - paragraph: YLO
+        - paragraph: Everything, you express
+      - generic [ref=e4]:
+        - button "EN" [ref=e5] [cursor=pointer]
+        - button "DE" [ref=e6] [cursor=pointer]
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: YLO
+      - paragraph [ref=e13]: Everything, you express
+    - main [ref=e15]:
+      - generic [ref=e17]: TRACKS
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: 2026 • 3 TRACKS
+          - paragraph [ref=e22]: Click to play
+        - generic [ref=e23]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 02:33" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25]:
+              - generic [ref=e26]:
+                - generic [ref=e27]: "01"
+                - generic [ref=e28]:
+                  - paragraph [ref=e29]: NO FACE NO ACCESS
+                  - paragraph [ref=e30]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e31]: 02:33
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 03:19" [active] [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]:
+              - generic [ref=e34]:
+                - generic [ref=e35]: "02"
+                - generic [ref=e36]:
+                  - paragraph [ref=e37]: SUNDAY LOOP
+                  - paragraph [ref=e38]: Alt-pop / House • 2026.02.02
+              - generic [ref=e39]: 03:19
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:11" [ref=e40] [cursor=pointer]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e43]: "03"
+                - generic [ref=e44]:
+                  - paragraph [ref=e45]: MODE CHANGE
+                  - paragraph [ref=e46]: Future bass / Rap • 2026.02.18
+              - generic [ref=e47]: 03:11
+      - generic [ref=e49]:
+        - paragraph [ref=e50]: LYRICS
+        - paragraph [ref=e51]: Sunday. Yeah End… and beginning. Reset it. Sunday is the end, Sunday is the start 한 바퀴 돌아도 새로, same loop, new heart 어제는 fold it up, 오늘은 open chart 또 처음처럼 breathe, restart, restart 일주일이 film처럼 지나가, fast-forward 피곤은 남아도 I’m not out of my sword 침대에 눕자마자 head’s still running To-do in my brain, but I’m done with the gunning Sunday morning light, window frame like a sign “끝”이란 단어 뒤에 “시작”이 붙는 time 실패도 성과도 전부 한 박스에 담아 내일의 나한테 넘겨, then I calm down (Pack it. Leave it.) 내 마음은 reload, I don’t stay stuck (Reload.) 한숨은 out, 새로운 숨은 up 눈 감으면 정리돼, 내 머릿속 mess 눈 뜨면 다시 시작, clean, no stress Sunday loop, 돌아도 I don’t feel trapped 매번 처음처럼, I’m back on track 끝에서 시작으로, I flip that map 한 주가 닫혀도, I open that gap Restart— Restart— Restart— (Yeah—) 카페 창가, note 한 장, 작은 계획 Sunday는 quiet, but my vision’s loud, okay Don’t overthink. 지나간 말들 다 내려놔, let it sink 내가 나를 안아, 그리고 다시 link 끝이 있어야 시작이 더 선명해져 반복이란 말 속에 새로움이 숨어 Same streets, new steps, 다른 마음의 tone I’m alone with my thoughts, but I’m never alone No panic— Breathe. 시간은 원형, but I choose how I leave 어제의 상처는 lesson, not a chain 오늘의 다짐은 weapon, not a claim 월요일이 와도 난 준비돼, okay Sunday가 준 peace로 I’m paving my way 반복 속의 첫 장, I write it again 끝을 딛고 시작해, amen If the week was a wave, I learned how to float 끝에 잠깐 쉬고, 다시 keep the boat Keep it steady. 돌아오는 건 loop, but my mind stays new 매번 새로 시작해, me and you— and you Sunday is the end, Sunday is the start 한 바퀴 돌아도 새로, same loop, new heart 어제는 fold it up, 오늘은 open chart 또 처음처럼 breathe, restart, restart (Close it.) Restart— Restart—
+    - contentinfo [ref=e52]:
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - paragraph [ref=e55]: NOW PLAYING
+          - paragraph [ref=e56]: SUNDAY LOOP
+        - generic [ref=e57]:
+          - button "Previous" [ref=e58] [cursor=pointer]:
+            - img [ref=e59]
+          - button "Pause" [ref=e62] [cursor=pointer]:
+            - img [ref=e63]
+          - button "Next" [ref=e66] [cursor=pointer]:
+            - img [ref=e67]
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e72]: 0:01
+            - generic [ref=e73]: 3:19
+          - slider "Seek" [ref=e77] [cursor=pointer]: "1.73"
+        - generic [ref=e78]:
+          - img [ref=e80]
+          - slider "Volume" [ref=e82] [cursor=pointer]: "0.9"
+  - alert [ref=e48]

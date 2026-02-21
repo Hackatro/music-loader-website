@@ -1,0 +1,58 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - paragraph: YLO
+        - paragraph: Everything, you express
+      - generic [ref=e4]:
+        - button "EN" [ref=e5] [cursor=pointer]
+        - button "DE" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - paragraph [ref=e10]: YLO
+      - paragraph [ref=e11]: Everything, you express
+    - main [ref=e12]:
+      - generic [ref=e14]: TRACKS
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - paragraph [ref=e18]: 2026 • 3 TRACKS
+          - paragraph [ref=e19]: Click to play
+        - generic [ref=e20]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 03:21" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic [ref=e23]:
+                - generic [ref=e24]: "01"
+                - generic [ref=e25]:
+                  - paragraph [ref=e26]: NO FACE NO ACCESS
+                  - paragraph [ref=e27]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e28]: 03:21
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 02:54" [active] [ref=e29] [cursor=pointer]:
+            - generic [ref=e30]:
+              - generic [ref=e31]:
+                - generic [ref=e32]: "02"
+                - generic [ref=e33]:
+                  - paragraph [ref=e34]: SUNDAY LOOP
+                  - paragraph [ref=e35]: Alt-pop / House • 2026.02.02
+              - generic [ref=e36]: 02:54
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:07" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - generic [ref=e40]: "03"
+                - generic [ref=e41]:
+                  - paragraph [ref=e42]: MODE CHANGE
+                  - paragraph [ref=e43]: Future bass / Rap • 2026.02.18
+              - generic [ref=e44]: 03:07
+    - contentinfo [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - paragraph [ref=e49]: NOW PLAYING
+          - paragraph [ref=e50]: SUNDAY LOOP
+        - generic [ref=e51]:
+          - button "PREV" [ref=e52] [cursor=pointer]
+          - button "PAUSE" [ref=e53] [cursor=pointer]
+          - button "NEXT" [ref=e54] [cursor=pointer]
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e57]: 0:01
+            - generic [ref=e58]: 3:19
+          - slider "Seek" [ref=e62] [cursor=pointer]: "1.82"
+  - alert [ref=e45]

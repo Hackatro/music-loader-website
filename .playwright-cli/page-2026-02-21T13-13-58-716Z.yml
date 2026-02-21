@@ -1,0 +1,59 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - paragraph [ref=e5]: YLO
+        - paragraph [ref=e6]: Everything, you express
+      - generic [ref=e7]:
+        - button "EN" [ref=e8] [cursor=pointer]
+        - button "DE" [ref=e9] [cursor=pointer]
+        - button "KR" [ref=e10] [cursor=pointer]
+    - main [ref=e11]:
+      - generic [ref=e13]: TRACKS
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: 2026 • 3 TRACKS
+          - paragraph [ref=e18]: Click to play
+        - generic [ref=e19]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 03:21" [ref=e20] [cursor=pointer]:
+            - generic [ref=e21]:
+              - generic [ref=e22]:
+                - generic [ref=e23]: "01"
+                - generic [ref=e24]:
+                  - paragraph [ref=e25]: NO FACE NO ACCESS
+                  - paragraph [ref=e26]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e27]: 03:21
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 02:54" [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]:
+              - generic [ref=e30]:
+                - generic [ref=e31]: "02"
+                - generic [ref=e32]:
+                  - paragraph [ref=e33]: SUNDAY LOOP
+                  - paragraph [ref=e34]: Alt-pop / House • 2026.02.02
+              - generic [ref=e35]: 02:54
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:07" [ref=e36] [cursor=pointer]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - generic [ref=e39]: "03"
+                - generic [ref=e40]:
+                  - paragraph [ref=e41]: MODE CHANGE
+                  - paragraph [ref=e42]: Future bass / Rap • 2026.02.18
+              - generic [ref=e43]: 03:07
+      - generic [ref=e45]:
+        - paragraph [ref=e46]: LYRICS
+        - paragraph [ref=e47]: No face at the door, no signal in the glass Static in my name, still I run the pass Night stays electric, city keeps the code I switch to silent mode, then I overload
+    - contentinfo [ref=e48]:
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - paragraph [ref=e51]: NOW PLAYING
+          - paragraph [ref=e52]: NO FACE NO ACCESS
+        - generic [ref=e53]:
+          - button "PREV" [ref=e54] [cursor=pointer]
+          - button "PAUSE" [ref=e55] [cursor=pointer]
+          - button "NEXT" [ref=e56] [cursor=pointer]
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - generic [ref=e59]: 0:05
+            - generic [ref=e60]: 6:12
+          - slider "Seek" [ref=e64] [cursor=pointer]: "5.73"
+  - alert [ref=e44]

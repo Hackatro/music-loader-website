@@ -1,0 +1,22 @@
+
+> music-loader-website@0.1.0 dev
+> next dev --port 4160
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:4160
+
+ ✓ Starting...
+ ✓ Ready in 1272ms
+ ○ Compiling / ...
+ ✓ Compiled / in 854ms (517 modules)
+ GET / 200 in 999ms
+ ✓ Compiled in 99ms (253 modules)
+ ✓ Compiled /favicon.ico in 76ms (296 modules)
+ GET /favicon.ico 200 in 112ms
+ ✓ Compiled in 227ms (517 modules)
+ ✓ Compiled /_not-found in 126ms (506 modules)
+ GET /_next/static/webpack/e8609a56e354aea6.webpack.hot-update.json 404 in 189ms
+ GET / 200 in 72ms
+ ✓ Compiled /favicon.ico in 35ms (297 modules)
+ GET /favicon.ico 200 in 76ms
+ ✓ Compiled in 254ms (552 modules)

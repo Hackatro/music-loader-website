@@ -1,0 +1,61 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - paragraph: YLO
+        - paragraph: Alles, was du ausdrueckst
+      - generic [ref=e4]:
+        - button "EN" [ref=e5] [cursor=pointer]
+        - button "DE" [active] [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - paragraph [ref=e10]: YLO
+      - paragraph [ref=e11]: Alles, was du ausdrueckst
+    - main [ref=e12]:
+      - generic [ref=e14]: TRACKS
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - paragraph [ref=e18]: 2026 • 3 TRACKS
+          - paragraph [ref=e19]: Klicken zum Abspielen
+        - generic [ref=e20]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 03:21" [ref=e21] [cursor=pointer]:
+            - generic [ref=e22]:
+              - generic [ref=e23]:
+                - generic [ref=e24]: "01"
+                - generic [ref=e25]:
+                  - paragraph [ref=e26]: NO FACE NO ACCESS
+                  - paragraph [ref=e27]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e28]: 03:21
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 02:54" [ref=e29] [cursor=pointer]:
+            - generic [ref=e30]:
+              - generic [ref=e31]:
+                - generic [ref=e32]: "02"
+                - generic [ref=e33]:
+                  - paragraph [ref=e34]: SUNDAY LOOP
+                  - paragraph [ref=e35]: Alt-pop / House • 2026.02.02
+              - generic [ref=e36]: 02:54
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:07" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - generic [ref=e40]: "03"
+                - generic [ref=e41]:
+                  - paragraph [ref=e42]: MODE CHANGE
+                  - paragraph [ref=e43]: Future bass / Rap • 2026.02.18
+              - generic [ref=e44]: 03:07
+      - generic [ref=e46]:
+        - paragraph [ref=e47]: LYRICS
+        - paragraph [ref=e48]: Day face… night face. Yeah Same body— different mode. Mode change. Mode change— click— I’m not the same 낮엔 calm, 밤엔 flame— flame— flame Two profiles, one heart, one name Mask on, lights up— I own this game Morning in the mirror, I’m the “good kid” vibe Smile for the commute, keep it neat, stay live But my head got a beat that the world can’t see I save my real voice for the night and the street Daytime rules, I move like a shadow Stack that paper, keep my feelings narrow When the sun goes down, I unlock the cage Different energy, I step on stage Unlock it. I clock out, then I clock in— new skin New skin. Same scars, new sparkle when the bass kicks in I don’t act fake, I just choose my scene I’m soft in the day, I’m sharp when I’m seen Mode change— click— I’m not the same 낮엔 calm, 밤엔 flame— flame— flame Two profiles, one heart, one name Mask on, lights up— I own this game Click— Again. Click— Click— Yeah— Daytime, I’m polite, I let it slide “Nice to meet you” with a safe little smile But my real thoughts don’t fit in that frame So I fold them up till the night calls my name When the bells ring, I’m changing my tone Hair down, heart loud, I’m in my zone Not a different person— just the same me free Let her breathe. No fear— Say less. I move like a rumor, too fast to address If they only know my “day” version— cool Night version talks back, breaks every rule I switch the cadence, switch the walk Switch the mindset, switch the talk Same goals, new pace, I’m on my climb I’m two sides of the coin, both mine The mask ain’t a lie, it’s protection Two moods, one dream, same direction Same direction. If you want the real, catch me after dark 낮과 밤 사이, I leave my mark Mode change— click— I’m not the same 낮엔 calm, 밤엔 flame— flame— flame Two profiles, one heart, one name Mask on, lights up— I own this game Day face… night face… Choose your mode. Yeah Click… mode change…
+    - contentinfo [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e51]:
+          - paragraph [ref=e52]: JETZT LAEUFT
+          - paragraph [ref=e53]: MODE CHANGE
+        - generic [ref=e54]:
+          - button "ZURUECK" [ref=e69] [cursor=pointer]
+          - button "PAUSE" [ref=e56] [cursor=pointer]
+          - button "WEITER" [ref=e70] [cursor=pointer]
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - generic [ref=e60]: 0:06
+            - generic [ref=e61]: 3:11
+          - slider "Seek" [ref=e65] [cursor=pointer]: "6.33"
+  - alert [ref=e45]

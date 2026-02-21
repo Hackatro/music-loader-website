@@ -1,0 +1,67 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - paragraph: YLO
+        - paragraph: Everything, you express
+      - generic [ref=e4]:
+        - button "EN" [ref=e5] [cursor=pointer]
+        - button "DE" [ref=e6] [cursor=pointer]
+    - generic [ref=e9]:
+      - paragraph [ref=e10]: YLO
+      - paragraph [ref=e12]: Everything, you express
+    - main [ref=e14]:
+      - generic [ref=e16]: TRACKS
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - paragraph [ref=e20]: 2026 • 3 TRACKS
+          - paragraph [ref=e21]: Click to play
+        - generic [ref=e22]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 02:33" [active] [ref=e23] [cursor=pointer]:
+            - generic [ref=e24]:
+              - generic [ref=e25]:
+                - generic [ref=e26]: "01"
+                - generic [ref=e27]:
+                  - paragraph [ref=e28]: NO FACE NO ACCESS
+                  - paragraph [ref=e29]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e30]: 02:33
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 03:19" [ref=e31] [cursor=pointer]:
+            - generic [ref=e32]:
+              - generic [ref=e33]:
+                - generic [ref=e34]: "02"
+                - generic [ref=e35]:
+                  - paragraph [ref=e36]: SUNDAY LOOP
+                  - paragraph [ref=e37]: Alt-pop / House • 2026.02.02
+              - generic [ref=e38]: 03:19
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:11" [ref=e39] [cursor=pointer]:
+            - generic [ref=e40]:
+              - generic [ref=e41]:
+                - generic [ref=e42]: "03"
+                - generic [ref=e43]:
+                  - paragraph [ref=e44]: MODE CHANGE
+                  - paragraph [ref=e45]: Future bass / Rap • 2026.02.18
+              - generic [ref=e46]: 03:11
+      - generic [ref=e48]:
+        - paragraph [ref=e49]: LYRICS
+        - paragraph [ref=e50]: Shh… listen. Yeah They talk too much. Cut the noise. Fake friends in my phone, I delete, no stress Rumors on the wind, I don’t read, no mess 시선 차단 mode, I’m at peace, no flex 내 편은 나, no face, no access They smile in my face, then they race to the group chat Same lips say “love,” then they switch like a new cap I learned real quick who’s real when it’s rough When it’s quiet and broke, they don’t show up enough 소문은 cheap, like coins on the floor I don’t bend for it, I just step over more 내 길은 clean, I don’t drag your dirt If you throw that shade, it don’t touch my shirt Mm. Keep it moving. I see the angles, I see the pretend I see it. You want my light, but you’re not my friend 눈 가리고 말해도 I feel the vibe 내 시간은 gold, I don’t let you buy Fake friends in my phone, I delete, no stress Rumors on the wind, I don’t read, no mess 시선 차단 mode, I’m at peace, no flex 내 편은 나, no face, no access No face— Not today. No face— Not today. I don’t chase the room, I don’t beg for a seat If your love got a price, keep it— I’m not cheap 뒤에서 웃는 애들, you can keep your show I got peace on my wrist, let it glow, let it glow They say “heard this,” “heard that,” like it’s news Boring. But I’m busy building, I don’t lose to views 눈빛을 피해서가 아냐, I’m guarding my mind 내가 날 지켜, yeah, I’m on my side No call— Don’t answer. You want my energy? pay up with manners I don’t do the fake hugs, don’t do the fake love If it’s not respect, then it’s not enough 소문은 smoke, I’m the fan, I blow 무대 위 주인공, but I move like a ghost Look me in the eyes, say it with your chest If you can’t be real, you can rest with the rest Keep my circle small, that’s survival 작아도 단단해, that’s my bible Say it. 우릴 흔들어도 I don’t break, I reset 내 편은 나, I’m my own best bet Fake friends in my phone, I delete, no stress Rumors on the wind, I don’t read, no mess 시선 차단 mode, I’m at peace, no flex 내 편은 나, no face, no access Keep talking. Yeah I’m still me. No face… no face…
+    - contentinfo [ref=e51]:
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: NOW PLAYING
+          - paragraph [ref=e55]: NO FACE NO ACCESS
+        - generic [ref=e56]:
+          - button "Previous" [ref=e57] [cursor=pointer]:
+            - img [ref=e58]
+          - button "Pause" [ref=e61] [cursor=pointer]:
+            - img [ref=e62]
+          - button "Next" [ref=e65] [cursor=pointer]:
+            - img [ref=e66]
+        - generic [ref=e69]:
+          - generic [ref=e70]:
+            - generic [ref=e71]: 0:01
+            - generic [ref=e72]: 2:33
+          - slider "Seek" [ref=e76] [cursor=pointer]: "1.72"
+        - generic [ref=e77]:
+          - img [ref=e79]
+          - slider "Volume" [ref=e81] [cursor=pointer]: "0.9"
+  - alert [ref=e47]

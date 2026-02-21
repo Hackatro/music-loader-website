@@ -1,0 +1,44 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic:
+        - paragraph: YLO
+        - paragraph: Everything, you express
+      - generic [ref=e4]:
+        - button "EN" [ref=e5] [cursor=pointer]
+        - button "DE" [ref=e6] [cursor=pointer]
+    - generic [ref=e10]:
+      - paragraph [ref=e11]: YLO
+      - paragraph [ref=e13]: Everything, you express
+    - main [ref=e15]:
+      - generic [ref=e17]: TRACKS
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - paragraph [ref=e21]: 2026 • 3 TRACKS
+          - paragraph [ref=e22]: Click to play
+        - generic [ref=e23]:
+          - button "01 NO FACE NO ACCESS K-hiphop / EDM • 2026.01.09 02:33" [ref=e24] [cursor=pointer]:
+            - generic [ref=e25]:
+              - generic [ref=e26]:
+                - generic [ref=e27]: "01"
+                - generic [ref=e28]:
+                  - paragraph [ref=e29]: NO FACE NO ACCESS
+                  - paragraph [ref=e30]: K-hiphop / EDM • 2026.01.09
+              - generic [ref=e31]: 02:33
+          - button "02 SUNDAY LOOP Alt-pop / House • 2026.02.02 03:19" [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]:
+              - generic [ref=e34]:
+                - generic [ref=e35]: "02"
+                - generic [ref=e36]:
+                  - paragraph [ref=e37]: SUNDAY LOOP
+                  - paragraph [ref=e38]: Alt-pop / House • 2026.02.02
+              - generic [ref=e39]: 03:19
+          - button "03 MODE CHANGE Future bass / Rap • 2026.02.18 03:11" [ref=e40] [cursor=pointer]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - generic [ref=e43]: "03"
+                - generic [ref=e44]:
+                  - paragraph [ref=e45]: MODE CHANGE
+                  - paragraph [ref=e46]: Future bass / Rap • 2026.02.18
+              - generic [ref=e47]: 03:11
+  - alert [ref=e48]

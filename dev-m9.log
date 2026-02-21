@@ -1,0 +1,43 @@
+
+> music-loader-website@0.1.0 dev
+> next dev --port 4120
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:4120
+
+ ✓ Starting...
+ ✓ Ready in 1167ms
+ ○ Compiling / ...
+ ✓ Compiled / in 874ms (516 modules)
+ GET / 200 in 1021ms
+ ✓ Compiled in 116ms (253 modules)
+ ✓ Compiled /favicon.ico in 43ms (295 modules)
+ GET /favicon.ico 200 in 78ms
+ ✓ Compiled in 155ms (516 modules)
+ ✓ Compiled /_not-found in 116ms (505 modules)
+ GET /_next/static/webpack/e189dca02d5a4906.webpack.hot-update.json 404 in 185ms
+ GET / 200 in 71ms
+ ✓ Compiled /favicon.ico in 30ms (296 modules)
+ GET /favicon.ico 200 in 63ms
+ ✓ Compiled in 130ms (551 modules)
+ ✓ Compiled in 188ms (551 modules)
+ ✓ Compiled in 177ms (537 modules)
+ ✓ Compiled in 130ms (551 modules)
+ ✓ Compiled in 159ms (502 modules)
+ ✓ Compiled in 148ms (516 modules)
+ ✓ Compiled in 49ms (253 modules)
+ ✓ Compiled in 171ms (516 modules)
+ ✓ Compiled in 114ms (516 modules)
+ ✓ Compiled in 217ms (516 modules)
+ ✓ Compiled in 154ms (516 modules)
+ ✓ Compiled in 85ms (516 modules)
+ ✓ Compiled in 94ms (516 modules)
+ ✓ Compiled in 125ms (253 modules)
+ ✓ Compiled in 258ms (517 modules)
+ ✓ Compiled in 120ms (517 modules)
+ ✓ Compiled in 116ms (517 modules)
+ ✓ Compiled in 174ms (517 modules)
+ ✓ Compiled in 153ms (517 modules)
+ ✓ Compiled in 116ms (517 modules)
+ ✓ Compiled in 192ms (517 modules)
+ ✓ Compiled in 152ms (517 modules)
